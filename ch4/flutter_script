@@ -1,0 +1,12 @@
+#!/bin/bash
+mkdir -p assets/images && 
+mkdir -p lib/pages && 
+mkdir -p lib/models && 
+mkdir -p lib/utils && 
+mkdir -p lib/widgets && 
+mkdir -p lib/services && 
+mkdir -p lib/ui &&
+touch lib/pages/home.dart && 
+mkdir -p lib/ui && 
+touch lib/models/models.dart && 
+touch lib/util/utils.dart
